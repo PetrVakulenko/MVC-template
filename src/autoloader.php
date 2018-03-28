@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: petrvakulenko
- * Date: 27.03.18
- * Time: 9:40
+ * Defined MAINDIR and autoloader function
  */
 
 define('MAINDIR',__DIR__);

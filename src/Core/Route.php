@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: petrvakulenko
- * Date: 27.03.18
- * Time: 9:44
+ * Route class for running controller and action, or error
  */
 
 namespace Core;

@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: petrvakulenko
- * Date: 27.03.18
- * Time: 15:44
+ * Interface for all Models
  */
 
 namespace Models;

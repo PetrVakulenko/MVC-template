@@ -1,6 +1,6 @@
 <?php
-/*
- * Controller for error 404 not found
+/**
+ * Controller for error page
  */
 
 namespace Controllers;

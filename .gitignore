@@ -29,6 +29,8 @@ web.config
 *.err
 *.sql
 *.sqlite
+*.xml
+*.csv
 *~
 
 # OS generated files

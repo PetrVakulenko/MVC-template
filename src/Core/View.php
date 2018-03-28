@@ -1,6 +1,6 @@
 <?php
-/*
- * @ Main view class
+/**
+ * View class for getting all views
  */
 
 namespace Core;

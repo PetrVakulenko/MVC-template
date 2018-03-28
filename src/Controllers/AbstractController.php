@@ -1,9 +1,10 @@
 <?php
-/*
- * @ Main controller class.
- */
 
 namespace Controllers;
+
+/**
+ * Abstract controller class.
+ */
 
 abstract class AbstractController implements IController  {
     public $model;

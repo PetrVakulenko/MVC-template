@@ -1,6 +1,6 @@
 <?php
-/*
- * @Main model class
+/**
+ * Abstract model class
  */
 
 namespace Models;

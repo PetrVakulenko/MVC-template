@@ -1,6 +1,6 @@
 <?php
-/*
- * @Контроллер главной страницы
+/**
+ * Controller of main page
  */
 
 namespace Controllers;
